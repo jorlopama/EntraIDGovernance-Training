@@ -71,6 +71,10 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 ## 🤖 Custom Extension Samples (Logic Apps)
 Coming Soon!
 
+|Name    |Description        |Deploy|
+|--------|-------------------|------|
+|Sample 1|Just a quick sample|[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDavidHoerster%2FEntraIDGovernance-Training%2Fext-repo%2FCustomExtensionSamples%2FSample1%2Fsample1.bicep)
+
 ## ⏩ Useful Microsoft Quickstart Guides
 
 Check out these valuable links from Microsoft for step-by-step instructions on setting up Microsoft Entra ID Governance
