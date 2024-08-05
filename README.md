@@ -73,7 +73,8 @@ Coming Soon!
 
 |Name    |Description        |Deploy|
 |--------|-------------------|------|
-|[Sample 1](CustomExtensionSamples/Sample1/README.md)|Just a quick sample|[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDavidHoerster%2FEntraIDGovernance-Training%2Fext-repo%2FCustomExtensionSamples%2FSample1%2Fsample1.json)
+|[Sample 1](CustomExtensionSamples/Sample1/README.md)|Just a quick sample|[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDavidHoerster%2FEntraIDGovernance-Training%2Fext-repo%2FCustomExtensionSamples%2FSample1%2Fsample1.json)|
+|[Sample 2](CustomExtensionSamples/Sample2/README.md)|Another simple sample (it's really the same logic app)|[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDavidHoerster%2FEntraIDGovernance-Training%2Fext-repo%2FCustomExtensionSamples%2FSample2%2Fsample2.json)|
 
 ## ⏩ Useful Microsoft Quickstart Guides
 
